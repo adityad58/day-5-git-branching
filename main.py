@@ -1,6 +1,6 @@
 # main.py
 def greet(name: str) -> str:
-    return f"Hello, {name}"
+    return f"Hey there, {name}!"
 
 def farewell(name: str) -> str:
     return f"Goodbye, {name}!"
